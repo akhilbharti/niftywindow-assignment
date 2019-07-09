@@ -18,3 +18,5 @@ between various directories and subdirectories
 `npm install`
 
 `npm start`
+
+![](assignmnet.gif)
