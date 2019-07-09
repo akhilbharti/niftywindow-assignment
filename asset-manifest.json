@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/niftywindow-assignment/static/css/main.81c4812f.chunk.css",
+    "main.js": "/niftywindow-assignment/static/js/main.bd8ec55d.chunk.js",
+    "main.js.map": "/niftywindow-assignment/static/js/main.bd8ec55d.chunk.js.map",
+    "runtime~main.js": "/niftywindow-assignment/static/js/runtime~main.3869207d.js",
+    "runtime~main.js.map": "/niftywindow-assignment/static/js/runtime~main.3869207d.js.map",
+    "static/css/2.1ef35742.chunk.css": "/niftywindow-assignment/static/css/2.1ef35742.chunk.css",
+    "static/js/2.8ad6565d.chunk.js": "/niftywindow-assignment/static/js/2.8ad6565d.chunk.js",
+    "static/js/2.8ad6565d.chunk.js.map": "/niftywindow-assignment/static/js/2.8ad6565d.chunk.js.map",
+    "index.html": "/niftywindow-assignment/index.html",
+    "precache-manifest.383351963cb3848c55fcc2dc0d048441.js": "/niftywindow-assignment/precache-manifest.383351963cb3848c55fcc2dc0d048441.js",
+    "service-worker.js": "/niftywindow-assignment/service-worker.js",
+    "static/css/2.1ef35742.chunk.css.map": "/niftywindow-assignment/static/css/2.1ef35742.chunk.css.map",
+    "static/css/main.81c4812f.chunk.css.map": "/niftywindow-assignment/static/css/main.81c4812f.chunk.css.map"
+  }
+}
