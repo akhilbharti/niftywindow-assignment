@@ -19,4 +19,4 @@ between various directories and subdirectories
 
 `npm start`
 
-![](assignmnet.gif)
+![](assignment.gif)
